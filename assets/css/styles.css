@@ -197,12 +197,12 @@ footer nav .whatsapp {
   width: 4.5rem;
   height: 4.5rem;
   line-height: 4.5rem;
+  font-size: 3rem;
   background: rgba(255, 255, 255, 1);
   border-radius: 50%;
 }
 footer nav .whatsapp i {
   color: rgba(58, 58, 58);
-  font-size: 3rem;
   line-height: 3rem;
   vertical-align: middle;
 }
