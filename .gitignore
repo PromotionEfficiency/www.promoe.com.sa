@@ -1,4 +1,6 @@
 assets/locations
 *.psd
-assets/img/partners
+*.ai
+*.pdf
+assets/img/partners/Cl*
 photos
