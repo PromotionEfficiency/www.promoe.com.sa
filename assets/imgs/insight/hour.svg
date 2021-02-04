@@ -1,0 +1,8 @@
+<svg id="Group_9_Copy_3" data-name="Group 9 Copy 3" xmlns="http://www.w3.org/2000/svg" width="79" height="79" viewBox="0 0 79 79">
+  <rect id="Rectangle_3_Copy_2" data-name="Rectangle 3 Copy 2" width="69" height="69" rx="34.5" transform="translate(5 5)" fill="#ebc08c"/>
+  <rect id="Rectangle_3_Copy_3" data-name="Rectangle 3 Copy 3" width="79" height="79" rx="39.5" fill="#ffce91" opacity="0.448"/>
+  <g id="clock_copy" data-name="clock copy" transform="translate(17 17)">
+    <path id="Shape" d="M40.265,11.841a1.875,1.875,0,0,0-.871,2.5A18.559,18.559,0,0,1,41.25,22.5,18.75,18.75,0,1,1,22.5,3.75,18.525,18.525,0,0,1,34.14,7.8,1.875,1.875,0,1,0,36.473,4.86,22.5,22.5,0,1,0,45,22.5a22.27,22.27,0,0,0-2.231-9.788A1.873,1.873,0,0,0,40.265,11.841Z" fill="#fff"/>
+    <path id="Shape-2" data-name="Shape" d="M1.857,0A1.874,1.874,0,0,0,0,1.889V15.111A1.874,1.874,0,0,0,1.857,17h9.286a1.889,1.889,0,0,0,0-3.778H3.714V1.889A1.874,1.874,0,0,0,1.857,0Z" transform="translate(21 7)" fill="#fff"/>
+  </g>
+</svg>

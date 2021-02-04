@@ -1,0 +1,238 @@
+@font-face {
+  font-family: 'mb';
+  src: url('../fonts/English/Montserrat-Bold_0.otf');
+}
+@font-face {
+  font-family: 'meb';
+  src: url('../fonts/English/Montserrat-ExtraBold_0.otf');
+}
+@font-face {
+  font-family: 'mel';
+  src: url('../fonts/English/Montserrat-ExtraLight_0.otf');
+}
+@font-face {
+  font-family: 'ml';
+  src: url('../fonts/English/Montserrat-Light_0.otf');
+}
+@font-face {
+  font-family: 'mr';
+  src: url('../fonts/English/Montserrat-Regular_0.otf');
+}
+@font-face {
+  font-family: 'msb';
+  src: url('../fonts/English/Montserrat-SemiBold_0.otf');
+}
+@font-face {
+  font-family: 'mt';
+  src: url('../fonts/English/Montserrat-Thin_0.otf');
+}
+
+/* Service Selectors */
+::selection {
+  background: #71ff80;
+  color: white;
+}
+
+/* Main Selectors */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  font-family: 'mr';
+  font-size: 14px;
+  line-height: 1.5;
+  color: #3A3A3A;
+}
+header {
+  height: 100px;
+}
+header nav {
+  font-family: 'msb';
+}
+.bg-light {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+header nav .collapse.show{
+  margin-top:1rem;
+  border-top: 1px solid #bbbbbb;
+}
+header nav {
+
+}
+
+small{
+  color: #a4a4a4;
+}
+
+header nav .instagram a{
+  text-transform: lowercase;
+}
+header nav .section-card .card-title{
+  font-size:5rem;
+}
+header nav .display-3,
+header nav .display-4,
+header nav .display-5 {
+  font-family: 'mr';
+  text-transform: uppercase;
+}
+
+header nav .card .card-title{
+  font-size: 4rem;
+}
+
+header nav .card .card-body:hover{
+  background-color: #A1C200;
+  color:white;
+}
+
+header nav .card .card-body:hover a{
+  color:white !important;
+  text-decoration: none;
+}
+
+.breadcrumb {
+    padding: .75rem 1rem;
+    margin-bottom: 0rem;
+    list-style: none;
+    background: none;
+    border-radius: 0;
+}
+
+ol li{
+  margin-bottom: 1rem;
+}
+
+ol.breadcrumb{
+  padding:0;
+}
+ol.breadcrumb li{
+  margin-bottom: 0rem;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+main #aboutUsModal{
+
+}
+
+#partnersModal .modal-content .modal-body .options div {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  position:relative;
+}
+
+#partnersModal .modal-content .modal-body .options div:hover::after {
+    content: "";
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+
+    background-color: rgba(211,255,0,0.14);
+}
+
+#partnersModal .modal-content .modal-body .options div img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+#singleMap{
+  min-height:150px;
+  margin-bottom:0.5rem;
+}
+
+main .options{
+  font-size:2rem;
+}
+main .options h2{
+  font-size: 4rem;
+}
+main .options h4{
+  font-size:4rem;
+}
+main .text ol li strong{
+  margin-right:12px;
+}
+
+section {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+section h1 {
+  font-family: 'mb';
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: none;
+}
+section#our_map #map {
+  height: 100%;
+  width: 100%;
+}
+
+#legend {
+  display: block;
+  max-width: 300px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+#legend h3 {
+  font-family: 'msb';
+}
+footer .navbar {
+  padding-left: 0;
+  padding-right: 0;
+}
+footer nav .whatsapp {
+  width: 4.5rem;
+  height: 4.5rem;
+  line-height: 4.5rem;
+  font-size: 3rem;
+  background: rgba(255, 255, 255, 1);
+  color: rgba(58, 58, 58);
+  border-radius: 50%;
+}
+footer nav .whatsapp i {
+  
+  line-height: 3rem;
+  vertical-align: middle;
+}
+
+@media screen and (max-width: 576px) {
+  html,
+  body {
+    font-size: 14px;
+    line-height: 1.2;
+  }
+
+  #legend {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  header nav .display-3,
+  header nav .display-4,
+  header nav .display-5 {
+    font-size:2.5rem;
+  }
+
+  main .options{
+    font-size:1.5rem;
+  }
+
+  header nav .collapse.show{
+    overflow-y: auto;
+    overflow-x: none;
+    max-height:75vh;
+  }
+}
