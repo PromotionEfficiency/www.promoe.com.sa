@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/socialportfolio", {data:[{}],fetch:[],mutations:[]});

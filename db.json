@@ -5,360 +5,423 @@
         "description": "business, promo, promotion, efficiency, center, khobar",
         "email": "contact@promoe.com.sa",
         "url": "https://www.promoe.com.sa/",
-        "social_accounts":[
-            {
-                "title":"twitter",
-                "link":"https://twitter.com/promoefficiency/",
-                "fav_icon":"fab fa-twitter"
+        "social_accounts": [{
+                "title": "twitter",
+                "link": "https://twitter.com/promoefficiency/",
+                "fav_icon": "fab fa-twitter"
             },
             {
-                "title":"instagram",
-                "link":"https://www.instagram.com/promoefficiency",
-                "fav_icon":"fab fa-instagram"
+                "title": "instagram",
+                "link": "https://www.instagram.com/promoefficiency",
+                "fav_icon": "fab fa-instagram"
             },
             {
-                "title":"linkedin",
-                "link":"https://www.linkedin.com/company/promotion-efficiency",
-                "fav_icon":"fab fa-linkedin-in"
+                "title": "linkedin",
+                "link": "https://www.linkedin.com/company/promotion-efficiency",
+                "fav_icon": "fab fa-linkedin-in"
             },
             {
-                "title":"youtube",
-                "link":"https://www.youtube.com/channel/UCwx88crK6W9gZFxwcolU_dQ",
-                "fav_icon":"fab fa-youtube"
+                "title": "youtube",
+                "link": "https://www.youtube.com/channel/UCwx88crK6W9gZFxwcolU_dQ",
+                "fav_icon": "fab fa-youtube"
             }
         ]
     },
     "sections": {
-        "aboutus":{
-            "title":"Choose <strong>US</strong>",
-            "subtitle":"Why People",
-            "content":[
-                {
-                    "number":"01",
-                    "icon":"assets/imgs/icons/review.svg",
-                    "title":"Quality",
-                    "text":"We believe that quality is not an act but a habit. Quality is the habit that every member of our team has adopted and is continuously applying to every act."
+        "aboutus": {
+            "title": "Choose <strong>US</strong>",
+            "subtitle": "Why People",
+            "content": [{
+                    "number": "01",
+                    "icon": "assets/imgs/icons/review.svg",
+                    "title": "Quality",
+                    "text": "We believe that quality is not an act but a habit. Quality is the habit that every member of our team has adopted and is continuously applying to every act."
                 },
                 {
-                    "number":"02",
-                    "icon":"assets/imgs/icons/review.svg",
-                    "title":"Creativity",
-                    "text":"To us, creativity is seeing and communicating ideas in ways that are unique, compelling, and unexpected."
+                    "number": "02",
+                    "icon": "assets/imgs/icons/review.svg",
+                    "title": "Creativity",
+                    "text": "To us, creativity is seeing and communicating ideas in ways that are unique, compelling, and unexpected."
                 },
                 {
-                    "number":"03",
-                    "icon":"assets/imgs/icons/search.svg",
-                    "title":"Adaptability",
-                    "text":"\"Sail in all conditions\" is one of the mottos we live by. By believing in that, we set ambitious goals while keeping in mind unexpected challenges that might arise along the way."
+                    "number": "03",
+                    "icon": "assets/imgs/icons/search.svg",
+                    "title": "Adaptability",
+                    "text": "\"Sail in all conditions\" is one of the mottos we live by. By believing in that, we set ambitious goals while keeping in mind unexpected challenges that might arise along the way."
                 },
                 {
-                    "number":"04",
-                    "icon":"assets/imgs/icons/watch.svg",
-                    "title":"Determination",
-                    "text":"Our journey started with a believe that hard work and determination are the way to go."
+                    "number": "04",
+                    "icon": "assets/imgs/icons/watch.svg",
+                    "title": "Determination",
+                    "text": "Our journey started with a believe that hard work and determination are the way to go."
                 }
             ]
         },
-        "video":{
-            "title":"It could be <br /><strong>YOURS</strong>",
-            "subtitle":"PROMO VIDEO",
-            "content":{
+        "video": {
+            "title": "It could be <br /><strong>YOURS</strong>",
+            "subtitle": "PROMO VIDEO",
+            "content": {
                 "url": "/assets/videos/promoPhotoService_1.mp4",
                 "poster": "/assets/imgs/youtube/cover.png"
             }
         },
-        "services":{
-            "title":"SERVICES",
-            "subtitle":"THAT YOU'LL ENJOY",
-            "content":[
-                {
-                    "title":"Photography",
-                    "background":"/assets/imgs/services/photo.png",
-                    "breif":"Creative photography services to document every worth capturing moment."
+        "services": {
+            "title": "SERVICES",
+            "subtitle": "THAT YOU'LL ENJOY",
+            "content": [{
+                    "title": "Photography",
+                    "background": "/assets/imgs/services/photo.png",
+                    "breif": "Creative photography services to document every worth capturing moment."
                 },
                 {
-                    "title":"Videography ",
-                    "background":"/assets/imgs/services/photo.png",
-                    "breif":"Professional videography services to achieve your business goals and ambitions."
+                    "title": "Videography ",
+                    "background": "/assets/imgs/services/photo.png",
+                    "breif": "Professional videography services to achieve your business goals and ambitions."
                 },
                 {
-                    "title":"Designing ",
-                    "background":"/assets/imgs/services/design.png",
-                    "breif":"Out of the box graphic designs to visualize your ideas, goals and messages."
+                    "title": "Designing ",
+                    "background": "/assets/imgs/services/design.png",
+                    "breif": "Out of the box graphic designs to visualize your ideas, goals and messages."
                 },
                 {
-                    "title":"Copywriting ",
-                    "background":"/assets/imgs/services/copywriting.png",
-                    "breif":"Professional copywriting to state your objectives and communicate your message."
+                    "title": "Copywriting ",
+                    "background": "/assets/imgs/services/copywriting.png",
+                    "breif": "Professional copywriting to state your objectives and communicate your message."
                 },
                 {
-                    "title":"Social Media Accounts Management ",
-                    "background":"/assets/imgs/services/pexels-ovan-57690.jpg",
-                    "breif":"Social media accounts management and content creation to take your pages to a new level of creativity."
+                    "title": "Social Media Accounts Management ",
+                    "background": "/assets/imgs/services/pexels-ovan-57690.jpg",
+                    "breif": "Social media accounts management and content creation to take your pages to a new level of creativity."
                 },
                 {
-                    "title":"Marketing ",
-                    "background":"/assets/imgs/services/mark.png",
-                    "breif":"Marketing strategies and solutions based on your business objectives, competitors, and targeted audience’s needs and interests."
+                    "title": "Marketing ",
+                    "background": "/assets/imgs/services/mark.png",
+                    "breif": "Marketing strategies and solutions based on your business objectives, competitors, and targeted audience’s needs and interests."
                 },
                 {
-                    "title":"Advertising",
-                    "background":"/assets/imgs/services/Advertising.png",
-                    "breif":"Unconventional advertising services to help you deliver your ad. to the targeted audience and achieve your business goals"
+                    "title": "Advertising",
+                    "background": "/assets/imgs/services/Advertising.png",
+                    "breif": "Unconventional advertising services to help you deliver your ad. to the targeted audience and achieve your business goals"
                 },
                 {
-                    "title":"IT",
-                    "background":"/assets/imgs/services/it.png",
-                    "breif":"Professional website development and follow-up services."
+                    "title": "IT",
+                    "background": "/assets/imgs/services/it.png",
+                    "breif": "Professional website development and follow-up services."
                 },
                 {
-                    "title":"Events Management ",
-                    "background":"/assets/imgs/services/pexels-cottonbro-5095887.jpg",
-                    "breif":"Planning, managing, and covering your event from A to Z to ensure the best possible results."
+                    "title": "Events Management ",
+                    "background": "/assets/imgs/services/pexels-cottonbro-5095887.jpg",
+                    "breif": "Planning, managing, and covering your event from A to Z to ensure the best possible results."
                 }
             ]
         },
-        "insight":{
-            "title":"in<strong>sight</strong>",
-            "subtitle":"FACTS ABOUT US",
-            "content":[
+        "socialplans": {
+            "title": "Social Media Management",
+            "subtitle": "Our previous work.",
+            "content": [{
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/dfasdfdf.png"
+                },
                 {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan2.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/fasdfdfg.png"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan4.png"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan5.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan6.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan7.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan8.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan9.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan10.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan11.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan12.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan13.png"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan14.png"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan15.jpg"
+                },
+                {
+                    "client_name": "Gree",
+                    "client_img": "assets/imgs/socialmediawork/plan16.png"
+                }
+            ]
+        },
+        "insight": {
+            "title": "in<strong>sight</strong>",
+            "subtitle": "FACTS ABOUT US",
+            "content": [{
                     "class": "clients",
-                    "title":"TOTAL CLIENTS",
-                    "number":57,
-                    "icon":"assets/imgs/insight/clients.svg"
+                    "title": "TOTAL CLIENTS",
+                    "number": 57,
+                    "icon": "assets/imgs/insight/clients.svg"
                 },
                 {
                     "class": "employees",
-                    "title":"EMPLOYEES",
-                    "number":15,
-                    "icon":"assets/imgs/insight/employee.svg"
+                    "title": "EMPLOYEES",
+                    "number": 15,
+                    "icon": "assets/imgs/insight/employee.svg"
                 },
                 {
                     "class": "campaigns",
-                    "title":"CAMPAIGNS",
-                    "number":100,
-                    "icon":"assets/imgs/insight/campaigns.svg"
+                    "title": "CAMPAIGNS",
+                    "number": 100,
+                    "icon": "assets/imgs/insight/campaigns.svg"
                 },
                 {
                     "class": "hours",
-                    "title":"HOURS OF WORK",
-                    "number":1545,
-                    "icon":"assets/imgs/insight/hour.svg"
+                    "title": "HOURS OF WORK",
+                    "number": 1545,
+                    "icon": "assets/imgs/insight/hour.svg"
                 }
             ]
         },
-        "work":{
-            "title":"Our <strong>WORK</strong>",
-            "subtitle":"PORTFOLIO",
-            "content":[
-                {
-                    "project_name":"Social Media Accounts Management",
-                    "client_name":"Notes cafe",
-                    "breif":"",
-                    "picture":"assets/imgs/work/11.png",
-                    "link":""
+        "work": {
+            "title": "Our <strong>WORK</strong>",
+            "subtitle": "PORTFOLIO",
+            "content": [{
+                    "project_name": "Social Media Accounts Management",
+                    "client_name": "Notes cafe",
+                    "breif": "",
+                    "picture": "assets/imgs/work/11.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Social Media Accounts Management",
-                    "client_name":"Shot",
-                    "breif":"",
-                    "picture":"assets/imgs/work/22.png",
-                    "link":""
+                    "project_name": "Social Media Accounts Management",
+                    "client_name": "Shot",
+                    "breif": "",
+                    "picture": "assets/imgs/work/22.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Photography",
-                    "client_name":"Marvel",
-                    "breif":"",
-                    "picture":"assets/imgs/work/33.png",
-                    "link":""
+                    "project_name": "Photography",
+                    "client_name": "Marvel",
+                    "breif": "",
+                    "picture": "assets/imgs/work/33.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Photography",
-                    "client_name":"BakeNTake",
-                    "breif":"",
-                    "picture":"assets/imgs/work/4.png",
-                    "link":""
+                    "project_name": "Photography",
+                    "client_name": "BakeNTake",
+                    "breif": "",
+                    "picture": "assets/imgs/work/4.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Branding",
-                    "client_name":"Fairuz",
-                    "breif":"",
-                    "picture":"assets/imgs/work/5.png",
-                    "link":""
+                    "project_name": "Branding",
+                    "client_name": "Fairuz",
+                    "breif": "",
+                    "picture": "assets/imgs/work/5.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Company Profile",
-                    "client_name":"Rosen",
-                    "breif":"",
-                    "picture":"assets/imgs/work/6.png",
-                    "link":""
+                    "project_name": "Company Profile",
+                    "client_name": "Rosen",
+                    "breif": "",
+                    "picture": "assets/imgs/work/6.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Branding",
-                    "client_name":"Qarurah",
-                    "breif":"",
-                    "picture":"assets/imgs/work/7.png",
-                    "link":""
+                    "project_name": "Branding",
+                    "client_name": "Qarurah",
+                    "breif": "",
+                    "picture": "assets/imgs/work/7.png",
+                    "link": ""
 
                 },
                 {
-                    "project_name":"Branding",
-                    "client_name":"Efficiency Center",
-                    "breif":"",
-                    "picture":"assets/imgs/work/8.png",
-                    "link":""
+                    "project_name": "Branding",
+                    "client_name": "Efficiency Center",
+                    "breif": "",
+                    "picture": "assets/imgs/work/8.png",
+                    "link": ""
 
                 }
             ]
         },
-        "clients":{
-            "title":"Clients",
-            "subtitle":"WE ARE PROUD TO SERVE",
-            "content":[
-                {
-                    "client_name":"65 Degrees",
-                    "logo":"assets/imgs/clientlogos/amana.png"
+        "clients": {
+            "title": "Clients",
+            "subtitle": "WE ARE PROUD TO SERVE",
+            "content": [{
+                    "client_name": "65 Degrees",
+                    "logo": "assets/imgs/clientlogos/amana.png"
                 },
                 {
-                    "client_name":"AQUAFINA",
-                    "logo":"assets/imgs/clientlogos/aquafina.svg"
+                    "client_name": "AQUAFINA",
+                    "logo": "assets/imgs/clientlogos/aquafina.svg"
                 },
                 {
-                    "client_name":"Carlton alMoaibed Hotel",
-                    "logo":"assets/imgs/clientlogos/carlton.svg"
+                    "client_name": "Carlton alMoaibed Hotel",
+                    "logo": "assets/imgs/clientlogos/carlton.svg"
                 },
                 {
-                    "client_name":"Civil Defense Directorate",
-                    "logo":"assets/imgs/clientlogos/civil.svg"
+                    "client_name": "Civil Defense Directorate",
+                    "logo": "assets/imgs/clientlogos/civil.svg"
                 },
                 {
-                    "client_name":"Danderah",
-                    "logo":"assets/imgs/clientlogos/adf.png"
+                    "client_name": "Danderah",
+                    "logo": "assets/imgs/clientlogos/adf.png"
                 },
                 {
-                    "client_name":"KFUPM",
-                    "logo":"/assets/imgs/clientlogos/kfupm.svg"
+                    "client_name": "KFUPM",
+                    "logo": "/assets/imgs/clientlogos/kfupm.svg"
                 },
                 {
-                    "client_name":"NUGTAH",
-                    "logo":"/assets/imgs/clientlogos/nugtah.svg"
+                    "client_name": "NUGTAH",
+                    "logo": "/assets/imgs/clientlogos/nugtah.svg"
                 },
                 {
-                    "client_name":"PEPSI",
-                    "logo":"/assets/imgs/clientlogos/pepsi.svg"
+                    "client_name": "PEPSI",
+                    "logo": "/assets/imgs/clientlogos/pepsi.svg"
                 },
                 {
-                    "client_name":"Bake n Take",
-                    "logo":"/assets/imgs/clientlogos/bakentake.svg"
+                    "client_name": "Bake n Take",
+                    "logo": "/assets/imgs/clientlogos/bakentake.svg"
                 },
                 {
-                    "client_name":"Last Summer",
-                    "logo":"/assets/imgs/clientlogos/ada.png"
+                    "client_name": "Last Summer",
+                    "logo": "/assets/imgs/clientlogos/ada.png"
                 },
                 {
-                    "client_name":"Munch Bakery",
-                    "logo":"/assets/imgs/clientlogos/munch.svg"
+                    "client_name": "Munch Bakery",
+                    "logo": "/assets/imgs/clientlogos/munch.svg"
                 },
                 {
-                    "client_name":"Dice",
-                    "logo":"/assets/imgs/clientlogos/aldughaither.png"
+                    "client_name": "Dice",
+                    "logo": "/assets/imgs/clientlogos/aldughaither.png"
                 },
                 {
-                    "client_name":"Esad",
-                    "logo":"/assets/imgs/clientlogos/esad.svg"
+                    "client_name": "Esad",
+                    "logo": "/assets/imgs/clientlogos/esad.svg"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/intelcodes.svg"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/intelcodes.svg"
                 },
                 {
-                    "client_name":"Lipton",
-                    "logo":"/assets/imgs/clientlogos/lipton.svg"
+                    "client_name": "Lipton",
+                    "logo": "/assets/imgs/clientlogos/lipton.svg"
                 },
                 {
-                    "client_name":"Esad",
-                    "logo":"/assets/imgs/clientlogos/algosaibi.png"
+                    "client_name": "Esad",
+                    "logo": "/assets/imgs/clientlogos/algosaibi.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/qadsiah.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/qadsiah.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/gree.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/gree.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/scheider.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/scheider.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/bistro.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/bistro.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/mv.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/mv.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/thepeak.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/thepeak.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/bikers.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/bikers.png"
                 },
                 {
-                    "client_name":"IntelCodes",
-                    "logo":"/assets/imgs/clientlogos/oak.png"
+                    "client_name": "IntelCodes",
+                    "logo": "/assets/imgs/clientlogos/oak.png"
                 }
             ]
         },
-        "getstarted":{
-            "title":"Ready to get <strong>started?</strong>",
-            "subtitle":"WE ARE READY",
-            "content":{
-                "profile_link":"assets/files/Promotion_Efficiency_Profile_new.pdf"
+        "getstarted": {
+            "title": "Ready to get <strong>started?</strong>",
+            "subtitle": "WE ARE READY",
+            "content": {
+                "profile_link": "assets/files/Promotion_Efficiency_Profile_new.pdf"
             }
         },
-        "instagram":{
-            "title":"Visit Our <strong> Instagram </strong>",
-            "subtitle":"To see more our work!",
-            "content":{
-                "bg_image":"assets/imgs/instagram/bg.png"
+        "instagram": {
+            "title": "Visit Our <strong> Instagram </strong>",
+            "subtitle": "To see more our work!",
+            "content": {
+                "bg_image": "assets/imgs/instagram/bg.png"
             }
         },
-        "blog":{
-            "title":"",
-            "subtitle":"",
-            "content":""
+        "blog": {
+            "title": "",
+            "subtitle": "",
+            "content": ""
         },
-        "news":{
-            "title":"",
-            "subtitle":"",
-            "content":""
+        "news": {
+            "title": "",
+            "subtitle": "",
+            "content": ""
         },
-        "address":{
-            "title":"We are very close <strong>to you</strong>",
-            "subtitle":"OUR ADDRESS",
-            "content":{
-                "city":"KHOBAR",
-                "address":"Office 10, Floor 2, Kornich Park, Prince Mutib Road, North Khobar, building number 6919, Postal code 34413",
+        "address": {
+            "title": "We are very close <strong>to you</strong>",
+            "subtitle": "OUR ADDRESS",
+            "content": {
+                "city": "KHOBAR",
+                "address": "Office 10, Floor 2, Kornich Park, Prince Mutib Road, North Khobar, building number 6919, Postal code 34413",
                 "location": {
-                    "lat":26.305914,
-                    "lng":50.223589
+                    "lat": 26.305914,
+                    "lng": 50.223589
                 },
-                "phone":{
-                    "number":"+966581115550",
-                    "number2":"+966920035115",
-                    "link":"+966581115550",
-                    "link2":"+966920035115"
+                "phone": {
+                    "number": "+966581115550",
+                    "number2": "+966920035115",
+                    "link": "+966581115550",
+                    "link2": "+966920035115"
                 }
             }
         }
